@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T08:33:17.317Z" agent="5.0 (Windows)" etag="xqg8wguDJVYN9JwcgtfZ" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T09:32:56.272Z" agent="5.0 (Windows)" etag="8jbeN3I6KgZkIBOLnVw-" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -216,6 +216,11 @@
         <mxCell id="7nmXqfAK1qRtBDQloMW5-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7nmXqfAK1qRtBDQloMW5-68" target="7nmXqfAK1qRtBDQloMW5-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7nmXqfAK1qRtBDQloMW5-84" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7nmXqfAK1qRtBDQloMW5-79">
+          <mxGeometry x="-0.1346" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7nmXqfAK1qRtBDQloMW5-68" value="&lt;div&gt;check 是否最&lt;/div&gt;&lt;div&gt;后一条记录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="526.26" y="950" width="103.74" height="81" as="geometry" />
         </mxCell>
@@ -242,10 +247,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nmXqfAK1qRtBDQloMW5-78" value="&lt;div&gt;提交事务&lt;br&gt;&lt;/div&gt;&lt;div&gt;更新数据库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="334.39" y="960.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="960.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nmXqfAK1qRtBDQloMW5-80" value="end" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="134.39" y="960.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="119.99999999999999" y="960.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
