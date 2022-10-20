@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T06:22:24.277Z" agent="5.0 (Windows)" etag="KQmwgCPiVAShIQf8qOSX" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T06:31:38.020Z" agent="5.0 (Windows)" etag="kb5LYsIW2eZtTPiCRLQE" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2591" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-87" value="&lt;div&gt;chek SpecNo&lt;/div&gt;&lt;div&gt;是否为空&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-789.25" y="729.5" width="115" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="hF7ooZJOK3moPgRyZVrQ-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hF7ooZJOK3moPgRyZVrQ-101" target="hF7ooZJOK3moPgRyZVrQ-106" edge="1">
+        <mxCell id="hF7ooZJOK3moPgRyZVrQ-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pkTP9uWqBrhhQhl2yWkC-1" target="hF7ooZJOK3moPgRyZVrQ-106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-363" y="775" as="targetPoint" />
           </mxGeometry>
@@ -199,14 +199,17 @@
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hF7ooZJOK3moPgRyZVrQ-101" target="hF7ooZJOK3moPgRyZVrQ-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pkTP9uWqBrhhQhl2yWkC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hF7ooZJOK3moPgRyZVrQ-101" target="pkTP9uWqBrhhQhl2yWkC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-101" value="根据specNo查询记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-574" y="745" width="100" height="60" as="geometry" />
+          <mxGeometry x="-623" y="744.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hF7ooZJOK3moPgRyZVrQ-106" target="hF7ooZJOK3moPgRyZVrQ-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-358" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-335" y="570" />
+              <mxPoint x="-258" y="570" />
               <mxPoint x="-524" y="570" />
             </Array>
           </mxGeometry>
@@ -219,8 +222,8 @@
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hF7ooZJOK3moPgRyZVrQ-106" target="hF7ooZJOK3moPgRyZVrQ-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hF7ooZJOK3moPgRyZVrQ-106" value="&lt;div&gt;check statu是否&lt;/div&gt;&lt;div&gt;In-use&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-390.5" y="727" width="110" height="95" as="geometry" />
+        <mxCell id="hF7ooZJOK3moPgRyZVrQ-106" value="&lt;div&gt;check specApplStatu是否&lt;/div&gt;&lt;div&gt;In-use&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-313" y="727" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hF7ooZJOK3moPgRyZVrQ-111" target="hF7ooZJOK3moPgRyZVrQ-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -232,8 +235,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-303" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-253" y="939" />
-              <mxPoint x="-253" y="570" />
+              <mxPoint x="-170" y="939" />
+              <mxPoint x="-170" y="570" />
               <mxPoint x="-524" y="570" />
             </Array>
           </mxGeometry>
@@ -259,8 +262,8 @@
             <mxPoint x="-613" y="1120" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-566" y="1030" />
-              <mxPoint x="-203" y="1030" />
-              <mxPoint x="-203" y="570" />
+              <mxPoint x="-120" y="1030" />
+              <mxPoint x="-120" y="570" />
               <mxPoint x="-524" y="570" />
             </Array>
           </mxGeometry>
@@ -278,7 +281,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hF7ooZJOK3moPgRyZVrQ-121" value="&lt;div&gt;check specItemCode&lt;/div&gt;&lt;div&gt;和permitItemCode&lt;/div&gt;&lt;div&gt;是否相同&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="hF7ooZJOK3moPgRyZVrQ-121" value="&lt;div&gt;用specId和permit&lt;/div&gt;&lt;div&gt;ItemCode是否查到&lt;/div&gt;&lt;div&gt;specItem记录&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-653.5" y="880" width="175" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hF7ooZJOK3moPgRyZVrQ-126" target="hF7ooZJOK3moPgRyZVrQ-73" edge="1">
@@ -286,8 +289,8 @@
             <mxPoint x="-815.5" y="1106.25" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-785" y="1030" />
-              <mxPoint x="-203" y="1030" />
-              <mxPoint x="-203" y="570" />
+              <mxPoint x="-120" y="1030" />
+              <mxPoint x="-120" y="570" />
               <mxPoint x="-524" y="570" />
             </Array>
           </mxGeometry>
@@ -540,6 +543,9 @@
         </mxCell>
         <mxCell id="hF7ooZJOK3moPgRyZVrQ-221" value="end" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1023" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkTP9uWqBrhhQhl2yWkC-1" value="根据specId查询specAppl记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-469" y="744.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
