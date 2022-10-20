@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T06:41:25.769Z" agent="5.0 (Windows)" etag="asfZ-lwvneI7B_sNvPn6" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T06:41:32.960Z" agent="5.0 (Windows)" etag="8-IMUTop2fWdkd9N8Nmb" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQuOsH5TMNyaBFGdxfSk-49" value="&lt;div&gt;check specItemCode&lt;/div&gt;&lt;div&gt;和permitItemCode&lt;/div&gt;&lt;div&gt;是否相同&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nQuOsH5TMNyaBFGdxfSk-49" value="&lt;div&gt;用specId和permit&lt;/div&gt;&lt;div&gt;ItemCode是否查到&lt;/div&gt;&lt;div&gt;specItem记录&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="639.5" y="818" width="175" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="nQuOsH5TMNyaBFGdxfSk-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQuOsH5TMNyaBFGdxfSk-53" target="nQuOsH5TMNyaBFGdxfSk-23" edge="1">
