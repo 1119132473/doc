@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T03:33:45.777Z" agent="5.0 (Windows)" etag="S-M2EF_0UmHbR1dOKK9f" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T05:38:12.514Z" agent="5.0 (Windows)" etag="Hc0aDVHJcR6B8cxL9t5x" version="20.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -242,8 +242,8 @@
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-84" value="&lt;div&gt;write aeo_softcopy&lt;/div&gt;&lt;div&gt;更新当前po attachment 的softCopyId&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="278.51" y="1860" width="168" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-87" value="&lt;div&gt;查询aeo_po_attachment_tmp uploadTime大于&lt;/div&gt;&lt;div&gt;1个月(可配置)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="263.76" y="2030" width="197.49" height="100" as="geometry" />
+        <mxCell id="1JKir1P_wYwHQOhN6Hkd-87" value="&lt;div&gt;查询aeo_po_attachment_tmp &lt;br&gt;&lt;/div&gt;&lt;div&gt;where uploadTime &amp;gt;1个月(可配置)&lt;/div&gt;&lt;div&gt;and softcopyId = null 的数据&lt;/div&gt;&lt;div&gt;迁移到&lt;/div&gt;&lt;div&gt;aeo_invalid_po_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po has expired&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="256.81" y="2030" width="210.87" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
