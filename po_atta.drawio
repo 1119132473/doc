@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T07:18:37.161Z" agent="5.0 (Windows)" etag="vcerHnCGQhEaFBuC0kwe" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T01:36:41.282Z" agent="5.0 (Windows)" etag="1KW82w3TIb8f1g50aROk" version="20.8.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-94" value="&lt;div&gt;剩下的&lt;/div&gt;&lt;div&gt;aeo_po_attachment_tmp&lt;/div&gt;&lt;div&gt;record迁移到aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po is covered&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1226.5" y="731" width="192" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--0" value="&lt;div&gt;statsu:pengding =1&lt;/div&gt;&lt;div&gt;moving =2&lt;/div&gt;&lt;div&gt;filenameError = 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="120" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
