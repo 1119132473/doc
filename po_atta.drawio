@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T01:36:41.282Z" agent="5.0 (Windows)" etag="1KW82w3TIb8f1g50aROk" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T08:17:28.469Z" agent="5.0 (Windows)" etag="t0OOO3m5DBYhbLiPD4iv" version="20.8.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -148,8 +148,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-67" target="1JKir1P_wYwHQOhN6Hkd-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1JKir1P_wYwHQOhN6Hkd-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-67" target="TarrtGPTzXye8ioqwVe--2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405.5999999999999" y="960" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-76" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1JKir1P_wYwHQOhN6Hkd-75" vertex="1" connectable="0">
           <mxGeometry x="-0.2802" y="-1" relative="1" as="geometry">
@@ -162,39 +164,24 @@
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-71" value="写入aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po confirmed&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="613.12" y="823" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-74" target="1JKir1P_wYwHQOhN6Hkd-79" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-74" value="write aeo_po_attachment_tmp&amp;nbsp;&amp;nbsp; status=moved" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="321.62" y="958" width="168.01" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-79" target="1JKir1P_wYwHQOhN6Hkd-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1JKir1P_wYwHQOhN6Hkd-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.957;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--2" target="1JKir1P_wYwHQOhN6Hkd-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489.6300000000001" y="1153" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-83" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1JKir1P_wYwHQOhN6Hkd-82" vertex="1" connectable="0">
           <mxGeometry x="-0.2097" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-79" target="1JKir1P_wYwHQOhN6Hkd-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-86" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1JKir1P_wYwHQOhN6Hkd-85" vertex="1" connectable="0">
-          <mxGeometry x="-0.3213" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-79" value="&lt;div&gt;根据po查询softcopy&lt;/div&gt;&lt;div&gt;是否存在&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="321.62" y="1088" width="167.5" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-81" value="&lt;div&gt;覆盖保存aeo_softcopy&lt;/div&gt;&lt;div&gt;更新当前po attachment 的softCopyId&lt;/div&gt;&lt;div&gt;移除上一条绑定softCopy的po attachment记录到&lt;/div&gt;&lt;div&gt;aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po is covered&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="618.12" y="1096.75" width="220" height="112.5" as="geometry" />
+          <mxGeometry x="612.12" y="970.75" width="220" height="112.5" as="geometry" />
         </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-84" target="1JKir1P_wYwHQOhN6Hkd-90" edge="1">
+        <mxCell id="TarrtGPTzXye8ioqwVe--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-84" target="TarrtGPTzXye8ioqwVe--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-84" value="&lt;div&gt;write aeo_softcopy&lt;/div&gt;&lt;div&gt;更新当前po attachment 的softCopyId&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="321.63" y="1278" width="168" height="80" as="geometry" />
+          <mxGeometry x="321.63" y="1300" width="168" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-87" value="&lt;div&gt;查询aeo_po_attachment_tmp &lt;br&gt;&lt;/div&gt;&lt;div&gt;where uploadTime &amp;gt;1个月(可配置)&lt;/div&gt;&lt;div&gt;and softcopyId = null 的数据&lt;/div&gt;&lt;div&gt;迁移到&lt;/div&gt;&lt;div&gt;aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po has expired&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="299.94" y="1538" width="210.87" height="110" as="geometry" />
@@ -205,17 +192,34 @@
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-89" value="&lt;div&gt;select aeo_po_attachment_tmp&lt;/div&gt;&lt;div&gt;where status = pending&lt;/div&gt;&lt;div&gt;and uploadTime = max&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1240" y="370" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-90" target="1JKir1P_wYwHQOhN6Hkd-87" edge="1">
+        <mxCell id="TarrtGPTzXye8ioqwVe--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-90" target="1JKir1P_wYwHQOhN6Hkd-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-90" value="把其他相同PO Number不同Checksum的po_attachment迁移到aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po is covered&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="306.88" y="1408" width="197.49" height="80" as="geometry" />
+          <mxGeometry x="306.63" y="1160" width="197.49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-94" value="&lt;div&gt;剩下的&lt;/div&gt;&lt;div&gt;aeo_po_attachment_tmp&lt;/div&gt;&lt;div&gt;record迁移到aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po is covered&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1226.5" y="731" width="192" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="TarrtGPTzXye8ioqwVe--0" value="&lt;div&gt;statsu:pengding =1&lt;/div&gt;&lt;div&gt;moving =2&lt;/div&gt;&lt;div&gt;filenameError = 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TarrtGPTzXye8ioqwVe--0" value="&lt;div&gt;statsu:pengding =1&lt;/div&gt;&lt;div&gt;moved =2&lt;/div&gt;&lt;div&gt;remove= 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="120" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--2" target="1JKir1P_wYwHQOhN6Hkd-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--9" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TarrtGPTzXye8ioqwVe--8">
+          <mxGeometry x="-0.2605" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--2" value="&lt;div&gt;根据po查询softcopy&lt;/div&gt;&lt;div&gt;是否存在&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="321.63" y="966.75" width="167.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--3" target="1JKir1P_wYwHQOhN6Hkd-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--3" value="write aeo_po_attachment_tmp&amp;nbsp;&amp;nbsp; status=moved" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="321.62999999999994" y="1420" width="168.01" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
