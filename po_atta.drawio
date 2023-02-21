@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:49:13.276Z" agent="5.0 (Windows)" etag="nE55by-b2e6u_gNtJkGm" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T10:26:55.462Z" agent="5.0 (Windows)" etag="tTZrOH-EVCfJUxxpRRCV" version="20.8.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-94" value="&lt;div&gt;剩下的&lt;/div&gt;&lt;div&gt;aeo_po_attachment_tmp&lt;/div&gt;&lt;div&gt;record迁移到aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po is covered&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1120" y="919" width="192" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="TarrtGPTzXye8ioqwVe--0" value="&lt;div&gt;statsu:pengding =1&lt;/div&gt;&lt;div&gt;moved =2&lt;/div&gt;&lt;div&gt;remove= 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TarrtGPTzXye8ioqwVe--0" value="&lt;div&gt;pengding =1&lt;/div&gt;&lt;div&gt;moved =2&lt;/div&gt;&lt;div&gt;remove= 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="120" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--2" target="TarrtGPTzXye8ioqwVe--15">
@@ -294,8 +294,8 @@
         <mxCell id="TarrtGPTzXye8ioqwVe--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--54" target="1JKir1P_wYwHQOhN6Hkd-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TarrtGPTzXye8ioqwVe--54" value="获取可确认的poNum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1156" y="301" width="120" height="60" as="geometry" />
+        <mxCell id="TarrtGPTzXye8ioqwVe--54" value="获取可确认的poNum list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1139" y="301" width="154" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
