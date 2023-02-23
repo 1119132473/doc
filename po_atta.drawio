@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T01:18:30.607Z" agent="5.0 (Windows)" etag="SIVsOgbh0vTHPOGPegAK" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T01:23:28.313Z" agent="5.0 (Windows)" etag="Pi2KiowH8n4TKGizD_LY" version="20.8.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-84" value="&lt;div&gt;write aeo_softcopy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="331.63" y="1574" width="168" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-87" target="TarrtGPTzXye8ioqwVe--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-87" value="&lt;div&gt;查询aeo_po_attachment_tmp &lt;br&gt;&lt;/div&gt;&lt;div&gt;where uploadTime &amp;gt;1个月(可配置)&lt;/div&gt;&lt;div&gt;and status = pending 的数据&lt;/div&gt;&lt;div&gt;迁移到&lt;/div&gt;&lt;div&gt;aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po has expired&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="309.95" y="1810" width="210.87" height="110" as="geometry" />
         </mxCell>
@@ -236,6 +239,9 @@
         <mxCell id="TarrtGPTzXye8ioqwVe--45" value="写入新softcopy记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="899.9949999999999" y="1389.3749999999998" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--48" target="1JKir1P_wYwHQOhN6Hkd-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--48" value="&lt;div&gt;新增po_attachment_tmp record&lt;br&gt;&lt;/div&gt;&lt;div&gt;并且设置softCopyId&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690.01" y="1849.37" width="120" height="60" as="geometry" />
         </mxCell>
@@ -252,8 +258,21 @@
         <mxCell id="TarrtGPTzXye8ioqwVe--58" value="71010086_stamped" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="271" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--59" target="1JKir1P_wYwHQOhN6Hkd-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="1219" />
+              <mxPoint x="1040" y="2040" />
+              <mxPoint x="560" y="2040" />
+              <mxPoint x="560" y="1865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--59" value="写入aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;po is covered&lt;/span&gt;&lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;/span&gt;&lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;/span&gt;&lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="1150.78" width="170" height="67.18" as="geometry" />
+          <mxGeometry x="940" y="1149.76" width="170" height="69.22" as="geometry" />
+        </mxCell>
+        <mxCell id="TarrtGPTzXye8ioqwVe--63" value="&lt;div&gt;End&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="355.385" y="2025" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
