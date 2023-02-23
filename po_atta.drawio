@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T01:25:53.104Z" agent="5.0 (Windows)" etag="M41kyd1SLVZkVUmplTgw" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T05:59:57.829Z" agent="5.0 (Windows)" etag="1BD22LQM4DGwiHS7Lofe" version="20.8.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1JKir1P_wYwHQOhN6Hkd-84" value="&lt;div&gt;write aeo_softcopy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="331.63" y="1574" width="168" height="56" as="geometry" />
+          <mxGeometry x="331.13" y="1579.37" width="168" height="56" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-87" target="TarrtGPTzXye8ioqwVe--63">
           <mxGeometry relative="1" as="geometry" />
@@ -132,8 +132,8 @@
         <mxCell id="TarrtGPTzXye8ioqwVe--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1JKir1P_wYwHQOhN6Hkd-90" target="1JKir1P_wYwHQOhN6Hkd-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1JKir1P_wYwHQOhN6Hkd-90" value="把其他po_attachment迁移到aeo_po_invalid_attachment&lt;br&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po is covered&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="316.88" y="1440" width="197.49" height="80" as="geometry" />
+        <mxCell id="1JKir1P_wYwHQOhN6Hkd-90" value="&lt;div&gt;把list的其他po_attachment record&lt;/div&gt;&lt;div&gt;status = remove&lt;div&gt;softcopyid = &quot;&quot;&lt;/div&gt;&lt;div&gt;SoftcopyContent = null&lt;/div&gt;&lt;div&gt;deleteFlag = true&lt;/div&gt;&lt;div&gt;并且迁移到&lt;/div&gt;&lt;/div&gt;&lt;div&gt;迁移到aeo_po_invalid_attachment&lt;/div&gt;&lt;div&gt;Reason = &lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;po is noted&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="312.94" y="1400" width="207.06" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--0" value="&lt;div&gt;pengding =1&lt;/div&gt;&lt;div&gt;moved =2&lt;/div&gt;&lt;div&gt;remove= 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="130" width="170" height="110" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--3" value="&lt;div&gt;write aeo_po_attachment_tmp&lt;/div&gt;&lt;div&gt;更新softcopyid &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; status=moved&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="331.62999999999994" y="1672.5" width="168.01" height="80" as="geometry" />
+          <mxGeometry x="331.62999999999994" y="1680" width="168.01" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--15" target="TarrtGPTzXye8ioqwVe--36">
           <mxGeometry relative="1" as="geometry" />
@@ -203,8 +203,8 @@
         <mxCell id="TarrtGPTzXye8ioqwVe--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--32" target="1JKir1P_wYwHQOhN6Hkd-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TarrtGPTzXye8ioqwVe--32" value="获取uploadTime最大的po_attachment记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="333.18" y="1320.01" width="164.88" height="60" as="geometry" />
+        <mxCell id="TarrtGPTzXye8ioqwVe--32" value="在list获取last uploadTime&amp;nbsp; po_attachment record" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="313.99" y="1310" width="202.78" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--36" target="TarrtGPTzXye8ioqwVe--41">
           <mxGeometry relative="1" as="geometry">
