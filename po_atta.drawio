@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T10:08:52.557Z" agent="5.0 (Windows)" etag="g8wY8huuCOYzqm5ijVia" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T01:15:39.427Z" agent="5.0 (Windows)" etag="5YM3gm6OFCVHx7FtrXRL" version="20.8.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="TarrtGPTzXye8ioqwVe--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--27" target="TarrtGPTzXye8ioqwVe--32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TarrtGPTzXye8ioqwVe--27" value="&lt;div&gt;查询状态为pendding&lt;/div&gt;&lt;div&gt;的集合，并且把当前的po_attachment record 添加到集合&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TarrtGPTzXye8ioqwVe--27" value="&lt;div&gt;查询po_attachment_tmp状态为pendding&lt;/div&gt;&lt;div&gt;的list，并且把当前的po_attachment record 添加到list&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312.94" y="1160" width="204.88" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--32" target="1JKir1P_wYwHQOhN6Hkd-90">
