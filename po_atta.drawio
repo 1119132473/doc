@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T01:23:28.313Z" agent="5.0 (Windows)" etag="Pi2KiowH8n4TKGizD_LY" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T01:25:53.104Z" agent="5.0 (Windows)" etag="M41kyd1SLVZkVUmplTgw" version="20.8.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
         <mxCell id="TarrtGPTzXye8ioqwVe--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--20" target="TarrtGPTzXye8ioqwVe--48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TarrtGPTzXye8ioqwVe--20" value="&lt;div&gt;修改上一条绑定softcpopy的po_attachment_tmp record&lt;/div&gt;&lt;div&gt;&amp;nbsp;status = remove&lt;/div&gt;&lt;div&gt;softcopyid = &quot;&quot;&lt;/div&gt;&lt;div&gt;SoftcopyContent = null&lt;/div&gt;&lt;div&gt;deleteFlag = true&lt;/div&gt;&lt;div&gt;并且迁移到&lt;/div&gt;&lt;div&gt;aeo_po_invalid_attachment&lt;br&gt;Reason = po is covered&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TarrtGPTzXye8ioqwVe--20" value="&lt;div&gt;修改当前绑定softcpopy的po_attachment_tmp record&lt;/div&gt;&lt;div&gt;&amp;nbsp;status = remove&lt;/div&gt;&lt;div&gt;softcopyid = &quot;&quot;&lt;/div&gt;&lt;div&gt;SoftcopyContent = null&lt;/div&gt;&lt;div&gt;deleteFlag = true&lt;/div&gt;&lt;div&gt;并且迁移到&lt;/div&gt;&lt;div&gt;aeo_po_invalid_attachment&lt;br&gt;Reason = po is covered&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="655" y="1634.37" width="190" height="155" as="geometry" />
         </mxCell>
         <mxCell id="TarrtGPTzXye8ioqwVe--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TarrtGPTzXye8ioqwVe--27" target="TarrtGPTzXye8ioqwVe--32">
